@@ -1,2 +1,0 @@
-RAISEEVENT(thisform.MainForm,"FormSelectNode",.SelectedItem.Text,,.SelectedItem.Key)
-Error in line 6 of GKLNodeSelect.cmdSelect.Click (record 6): Function argument value, type, or count is invalid.
